@@ -10,4 +10,3 @@ Simple animations + glassmorphism design + localStorage based authentication.
 - LocalStorage user save
 - Glassmorphism UI
 
-## 📁 Files
